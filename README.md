@@ -1,9 +1,9 @@
 # SONAR-ROCKvsMINE-PREDICTION
 ROCK VS MINE PREDICTION USING LOGISTIC REGRESSION
-Sonar\_Rock\_V/S\_Mine\_Prediction
+
 
 -----
-The aim of this project is to predict whether there is a Rock or a Mine underwater using a dataset from kaggle and Machine Learning.
+The aim of this project is to predict whether there is a Rock or a Mine underwater using a dataset from Kaggle and Machine Learning.
 
 Libraries used:-
 
